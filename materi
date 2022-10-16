@@ -1,0 +1,16 @@
+// tipe data // 
+// Number (tidak ada nilai bulat,yang ada hanya bilangan pecahan)
+// String
+// Boolean
+// function
+// object
+// undefined
+
+// operator // 
+// Aritmatika (+, -, %, /, *)
+// penugasan (+=, -=, %=, /=, =, )
+// perbandingan (==, ===, !=, !==, >, <, >=, <=)
+// logika (&&, ||, !)
+// String
+// kondisional (operation ternary)
+// typeof
